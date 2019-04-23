@@ -1,3 +1,4 @@
+<img src="https://travis-ci.com/SirGoose3432/SWEN-559-DemoLab.svg?branch=master" alt="build:failed">
 # RIT SWEN-559 GitHub Continuous Integration Lab
 
 ## Pre-Lab
